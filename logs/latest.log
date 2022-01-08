@@ -1,0 +1,42 @@
+[18:46:36] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[18:46:36] [Server thread/INFO]: Loading properties
+[18:46:36] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: 핸들이 잘못되었습니다
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:181) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at nz$2.run(SourceFile:100) [server.jar:?]
+[18:46:36] [Server thread/INFO]: Default game type: SURVIVAL
+[18:46:36] [Server thread/INFO]: Generating keypair
+[18:46:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:46:37] [Server thread/INFO]: Using default channel type
+[18:46:39] [Server thread/INFO]: Preparing level "world"
+[18:46:39] [Server thread/INFO]: Loaded 488 advancements
+[18:46:40] [Server thread/INFO]: Preparing start region for level 0
+[18:46:40] [Server thread/INFO]: Done (1.571s)! For help, type "help" or "?"
+[18:47:22] [User Authenticator #1/INFO]: UUID of player Osdra is efbcdd93-d690-4d25-b0b5-f97110bcfa20
+[18:47:22] [Server thread/INFO]: Osdra[/127.0.0.1:55318] logged in with entity id 0 at (-681.5, 4.0, 377.5)
+[18:47:22] [Server thread/INFO]: Osdra joined the game
+[18:47:56] [Server thread/INFO]: Opped Odars
+[18:48:11] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:48:18] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:48:24] [Server thread/INFO]: Opped Osdra
+[18:48:34] [Server thread/INFO]: [Osdra: Set own game mode to Creative Mode]
+[18:48:47] [Server thread/INFO]: [Osdra: Set Osdra's spawn point to (-686, 4, 370)]
+[18:49:18] [Server thread/INFO]: Osdra lost connection: Disconnected
+[18:49:18] [Server thread/INFO]: Osdra left the game
+[18:49:26] [Server thread/INFO]: Stopping server
+[18:49:26] [Server thread/INFO]: Saving players
+[18:49:26] [Server thread/INFO]: Saving worlds
+[18:49:26] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[18:49:26] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[18:49:26] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[18:49:26] [Server Shutdown Thread/INFO]: Stopping server
